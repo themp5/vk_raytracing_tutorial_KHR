@@ -23,6 +23,7 @@
 
 #define STB_IMAGE_IMPLEMENTATION
 #include "obj_loader.h"
+
 #include "stb_image.h"
 
 #include "hello_vulkan.h"
